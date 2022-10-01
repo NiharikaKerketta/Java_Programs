@@ -5,7 +5,7 @@ import java.util.LinkedHashSet;
 public class aabbb {
 
 	public static void main(String[] args) {
-		String s = "aabbbccccaa";
+		String s = "aabbbcccc";
 		LinkedHashSet<Character> set = new LinkedHashSet<Character>();
 		for(int i =0;i<s.length();i++)
 		{

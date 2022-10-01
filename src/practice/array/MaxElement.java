@@ -14,7 +14,7 @@ public class MaxElement {
 			}
 			System.out.println(arr1[i]);
 		}
-			System.out.println("Max Element in given array ="+arr1[arr1.length-1]);
+			System.out.println("Max Element in given array ="+arr1[arr1.length-2]);
 		}
 	}
 
